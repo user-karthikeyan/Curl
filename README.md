@@ -12,9 +12,6 @@ A lightweight tool built in **C** for replicating CURL functionalities, supporti
 - **Concepts**: Socket Programming, HTTP Methods
 
 ## Getting Started
-    1.Compilation
     gcc curl.h
     gcc Curl.c curlFunctions.c -o C_curl
-
-    2.Running
-      ./C_curl options URL
+    ./C_curl options URL
